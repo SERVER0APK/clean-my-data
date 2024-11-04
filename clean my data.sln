@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clean my data", "clean my data\clean my data.vbproj", "{C67FB1C0-EB69-4C58-9A4F-0D82730B2FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67FB1C0-EB69-4C58-9A4F-0D82730B2FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67FB1C0-EB69-4C58-9A4F-0D82730B2FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67FB1C0-EB69-4C58-9A4F-0D82730B2FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67FB1C0-EB69-4C58-9A4F-0D82730B2FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD8BD89-0C92-4EAE-9AB9-12A1280AA6C5}
+	EndGlobalSection
+EndGlobal
